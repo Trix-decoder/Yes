@@ -2,15 +2,6 @@ local Rayfield = loadstring(game:HttpGet('https://raw.githubusercontent.com/shle
 local Plr = game:GetService("Players").LocalPlayer
 local Plrs = game:GetService("Players")
 
-
-
-
-
-
-
-
-
-
 local Window = Rayfield:CreateWindow({
 	Name = "NiggerHub",
 	LoadingTitle = "Nigger.xyz",
@@ -21,7 +12,6 @@ local Window = Rayfield:CreateWindow({
 		FileName = "BigblackTeam"
 	},
 })
-
 
 local MainTab = Window:CreateTab("Main", 4483362458)-- Title, Image
 
@@ -542,4 +532,3 @@ AddTag("IxvlIsCanadian", "Monkey" Color3.fromRGB(3, 28, 252)
 AddTag("IvxI_6", "ProScripter" Color3.fromRGB(5, 5, 5)
 
 Rayfield:LoadConfiguration()
-
