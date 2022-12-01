@@ -1,4 +1,4 @@
-local Rayfield = loadstring(game:HttpGet('https://raw.githubusercontent.com/shlexware/Rayfield/main/source'))()
+local Rayfield = loadstring(game:HttpGet('https://raw.githubusercontent.com/Trix-decoder/fix/main/Rayfield%20fix'))()
 local Plr = game:GetService("Players").LocalPlayer
 local Plrs = game:GetService("Players")
 
